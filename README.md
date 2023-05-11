@@ -1,4 +1,4 @@
-# multi arm bandit
+# Multi Arm Bandit
 
 Thompson sampling and UCB1 implementaion to choose the best ad base on CTR (MAB problem)
 
